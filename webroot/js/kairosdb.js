@@ -15,6 +15,8 @@ kairosdb.Aggregators =
 	RATE: "rate",
 	SORT: "sort",
 	SUM: "sum",
+	NUM: "num",
+	APDEX: "apdex",
 	LEAST_SQUARES: "least_squares",
 	PERCENTILE: "percentile",
 	SCALE: "scale"
